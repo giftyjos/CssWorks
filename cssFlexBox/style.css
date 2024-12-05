@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+
+}
+.row{
+    border: 1px black;
+    width: 75%;
+    height: 400px;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    /* justify-content: space-evenly; horizontally cheyan*/
+    /* align-items: center; */
+    /* align-items: flex-end;  vertically cheyan*/
+    align-items: flex-start;
+    
+}
+.col{
+    border:1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}

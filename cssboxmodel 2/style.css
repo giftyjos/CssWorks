@@ -1,0 +1,24 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: green;
+/*this box means all boxes depend then sperate boxes reltedboxes*/
+}
+.box0{
+    
+    background-color: green;
+}
+.box1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    background-color: green;
+    margin-bottom: 2px;
+}
+.box2{
+    margin-left: auto;
+    /* margin-right: auto; */
+    background-color: black;
+    color: white;
+}

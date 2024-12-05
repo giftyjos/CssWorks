@@ -1,0 +1,14 @@
+
+.box {
+    border: solid black 2px;
+    background-color: green;
+    border-style: solid;
+    color: white;
+    width: 700px;
+    height: 300px;
+}
+
+
+/*border-width:2px; */
+/* border-color:black */
+/* border-style:solid */

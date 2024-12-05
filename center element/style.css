@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+
+}
+body{
+    
+    
+    height: 100vh;  /*100 kodtha means 100%  viewport height*/
+    
+    display: flex;
+
+    justify-content: center;
+    
+    align-items: center;
+    
+    
+}
+.box{
+    border:1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: #0087c8; /*myspace color sitil poi colo adich code select cheyam*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
